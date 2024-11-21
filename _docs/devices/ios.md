@@ -12,5 +12,3 @@ To install ChatApp on your device:
 2. Search for ChatApp
 3. Select **Install**
 4. 安装软件
-
-![](//placehold.it/800x600)
